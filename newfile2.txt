@@ -1,1 +1,2 @@
 hello this is mritujay and try to larn git.
+yes i success to commit.
